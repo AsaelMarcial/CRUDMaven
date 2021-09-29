@@ -12,6 +12,7 @@ public class EstudianteModel {
         this.primer_ape = primer_ape;
         this.seg_nom = seg_nom;
         this.seg_ape = seg_ape;
+        activo = true;
     }
 
     public EstudianteModel() {

@@ -11,7 +11,7 @@ public class Connect2Db {
 
     private static Connect2Db connectInstance;
     private Connection connection;
-    private final String URL = "jdbc:postgresql://localhost:3307/asaeldb";
+    private final String URL = "jdbc:postgresql://localhost:3307/EscuelaMaven";
     private final String USER = "postgres";
     private final String PASSWORD = "Hvzrrs04";
 

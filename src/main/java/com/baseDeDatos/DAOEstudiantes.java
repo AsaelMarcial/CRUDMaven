@@ -1,4 +1,6 @@
-package com.example.ejemplo;
+package com.baseDeDatos;
+
+import com.pojos.EstudianteModel;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

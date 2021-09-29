@@ -1,4 +1,4 @@
-package com.example.ejemplo;
+package com.pojos;
 
 public class EstudianteModel {
     private String primer_nom;
